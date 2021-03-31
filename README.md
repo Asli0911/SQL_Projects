@@ -1,5 +1,3 @@
 # SQL_Projects
 
-Two projects 
-
-1) 
+This project is about registration of a university. 
